@@ -1,3 +1,3 @@
 # WeatherSite
  
- This is a simple weather site I created using openweathermap.org.
+ This is a simple weather site I created using [OpenWeatherMap](https://www.openweathermap.org).
